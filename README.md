@@ -22,8 +22,11 @@
   <img align="left" alt="'Gmail" width="22px" height="22px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-alt-256.png" />
 </a>
   <br />
+  <hr />
+  <br />
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 
 </div>
 
