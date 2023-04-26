@@ -43,5 +43,6 @@ Hey there, I'm a a software engineer! I absolutely enjoy building new things wit
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via lineding or mail (Refer to the social icons above)
 - ⚡ **Fun fact**: My first hello world was when I was 13 😄
-
-<img style=display: block; margin: 0 auto;" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif">
+<div>
+<img style="display: block; margin: 0 auto;" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif">
+</div>
