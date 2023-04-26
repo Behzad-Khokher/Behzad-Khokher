@@ -21,6 +21,10 @@
 <a href="https://discordapp.com/users/579152992335429633" target="_blank">
   <img align="left" alt="'Gmail" width="22px" height="22px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-alt-256.png" />
 </a>
+  <br />
+  
+  &emsp; ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 
@@ -44,7 +48,6 @@ Hey there, I'm a a software engineer! I absolutely enjoy building new things wit
 - 📫 Reach me via lineding or mail (Refer to the social icons above)
 - ⚡ **Fun fact**: My first hello world was when I was 13 😄
 
-/*<img style="display: block; margin: 0 auto;" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif">*/
-&emsp; ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- /*<img style="display: block; margin: 0 auto;" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif">*/ -->
 
 
