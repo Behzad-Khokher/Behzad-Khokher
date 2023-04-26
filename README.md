@@ -30,8 +30,6 @@
 
 Hey there, I'm a a software engineer! I absolutely enjoy building new things with the power of code ⚙. I'm passionate about solving problems through code🚀 with a passion for both front-end and back-end development
 
-<img align="right" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif">
-
 
 <!-- **Some Of My Best Projects: **
 
@@ -45,3 +43,5 @@ Hey there, I'm a a software engineer! I absolutely enjoy building new things wit
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via lineding or mail (Refer to the social icons above)
 - ⚡ **Fun fact**: My first hello world was when I was 13 😄
+
+<img align="center" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif">
