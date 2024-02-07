@@ -32,7 +32,7 @@
 <br />
 <br />
 
-Hey there, I'm a a software engineer! I absolutely enjoy building new things with the power of code ⚙. I'm passionate about solving problems through code🚀 with a passion for both front-end and back-end development
+Hey there, I'm a full-stack software engineer! I absolutely enjoy building new things with the power of code ⚙. I'm passionate about solving problems through code🚀 with a passion for both front-end and back-end development. On the front-end I use React and on the Backend I use Golang. I'm in love with GoFiber!
 
 
 <!-- **Some Of My Best Projects: **
@@ -42,7 +42,7 @@ Hey there, I'm a a software engineer! I absolutely enjoy building new things wit
 - 👯 I’m collaborating with some great research labs & working with them on really exciting publications based in DL, NLP and software engineering. -->
 
 **About me**
-- 💼 Will gradute this June with a Bachelors in Computer Science.
+- 💼 Bachelors in Computer Science.
 - 🤔 Presently, my interests are in front-end,back-end, machine learning, and automation 😄.
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via lineding or mail (Refer to the social icons above)
