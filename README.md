@@ -32,7 +32,7 @@
 <br />
 <br />
 
-Hey there, I'm a full-stack software engineer! I absolutely enjoy building new things with the power of code ⚙. I'm passionate about solving problems through code🚀 with a passion for both front-end and back-end development. On the front-end I use React and on the Backend I use Golang. I'm in love with GoFiber!
+Hey there, I'm a full-stack software engineer! I absolutely enjoy building new things with the power of code ⚙. I'm passionate about solving problems through code🚀 with a passion for both front-end and back-end development. On the front-end I use React and on the Backend I use Golang. Also have contributed to GoFiber and member of the team!
 
 
 <!-- **Some Of My Best Projects: **
