@@ -9,7 +9,7 @@
 <!-- <a href="" target="_blank">
   <img align="left" alt="Twitter" width="22px" height="22px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png">
 </a> -->
-<a href="https://www.linkedin.com/in/behzad-k-7053a0135/" target="_blank">
+<a href="" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" height="22px" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png" />
 </a>
 <a href="mailto:behzadkhokher@gmail.com" target="_blank">
